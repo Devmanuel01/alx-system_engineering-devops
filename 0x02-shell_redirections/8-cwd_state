@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al > /home/vagrant/ls_cwd_content
+ls -al > /home/vagrant/alx-system_engineering-devops/0x02-shell_redirections/ls_cwd_content
