@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '3p' /home/vagrant/alx-system_engineering-devops/0x02-shell_redirections/iacta
+head -n 3 /home/vagrant/alx-system_engineering-devops/0x02-shell_redirections/iacta | tail -1
